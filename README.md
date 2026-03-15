@@ -53,3 +53,5 @@ Interactive slicers for borrower segmentation
 Project Outcome
 
 This project demonstrates the use of Excel for initial exploration, Python for data analysis, SQL for querying, and Power BI for visualization to support data-driven decision-making in credit risk analysis.
+
+
